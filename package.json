@@ -2,7 +2,7 @@
     "urls": [
         [
             "main.py",
-            "main.py"
+            "./main.py"
         ]
     ],
     "deps": [],
