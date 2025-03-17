@@ -1,8 +1,8 @@
 {
     "urls": [
         [
-            "./main.py",
-            "./main.py"
+            "main.py",
+            "github:heia-picomo/logo-app/main.py"
         ]
     ],
     "deps": [],
